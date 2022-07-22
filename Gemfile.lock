@@ -159,7 +159,7 @@ GEM
     thor (1.0.1)
     thread_safe (0.3.6)
     timeliness (0.4.0)
-    tzinfo (1.2.6)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     validates_timeliness (5.0.0.alpha4)
       timeliness (>= 0.3.10, < 1)
